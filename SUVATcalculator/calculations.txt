@@ -1,0 +1,9 @@
+The velocity is:
+38.0 meters per second.
+
+
+
+The displacement is:
+31.5 meters.
+
+
